@@ -1,0 +1,4 @@
+response for prompt: tell me about compiler in two sentences 
+ *****
+
+A compiler is a program that translates code written in a high-level programming language, which is more human-readable, into a low-level machine language that a computer can understand and execute. This process allows programmers to write code in a more convenient way and the computer to understand and run it efficiently. 

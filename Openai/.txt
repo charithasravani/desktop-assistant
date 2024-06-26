@@ -1,0 +1,14 @@
+Gemini AI response for Query: give me python code for printing hello world using artificial intelligence
+*************************
+
+You can't truly use "artificial intelligence" to print "Hello, world!" in Python. AI systems are designed for complex tasks like image recognition, natural language processing, or playing games. Printing a simple string is a basic programming function. 
+
+Here's how you achieve it in Python:
+
+```python
+print("Hello, world!")
+```
+
+This code uses the `print()` function, which is a built-in Python function for displaying output.  It takes a string as input and prints it to the console.
+
+Let me know if you have other Python tasks you'd like to try. I can help with coding explanations and examples!
